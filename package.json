@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/arnrk/fireworks-js.git",
-  "author": "Aaron Rock <aaronrk@mail.com>",
+  "author": "Aaron R",
   "license": "MIT",
   "devDependencies": {
     "webpack": "^4.41.2",
