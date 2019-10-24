@@ -1,3 +1,7 @@
+import Fireworks from "fireworks-canvas"
+
 export default () => {
-    alert("it works!")
+    const app = document.getElementById("app");
+    const fireworks = new Fireworks(app);
+    fireworks.start();
   }

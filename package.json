@@ -12,5 +12,8 @@
   },
   "scripts": {
     "start": "webpack-dev-server --mode development --content-base docs/ --open --hot"
+  },
+  "dependencies": {
+    "fireworks-canvas": "^2.3.2"
   }
 }
